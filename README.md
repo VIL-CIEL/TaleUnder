@@ -37,4 +37,10 @@ Tout est installé !
 - Interaction Général : Z<br>
 - Retour en arrière : Echap
 
+# - Copyright Musics :
+- Monde ouvert : Undertale Icebound NYEH HEH HEH! WITH ICE!! de luciiidll et __b<br>
+- Combat : Undertale Icebound DIVIDED SOLITUDE de luciiidll et __b<br>
+- Dialogue après combat : Undertale Icebound  Blossom Wildwoods (Snowdin) de luciiidll et __b<br>
+- Tout les FX (bruits et bruitages) viennent du jeu Undertale ou Deltarune
+
 *Le Projet est libre de modification et d'amélioration, merci juste de me créditer !*
