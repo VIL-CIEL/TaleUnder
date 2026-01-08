@@ -4,9 +4,8 @@ Projet académique de lycée en terminale NSI effectué avec d'autres camarades
 ## - Comment ouvrir les fichiers sources et jouer au jeu ?
 - Télécharger la dernière release<br>
 - Dézipper le fichier<br>
-- Ouvrez le fichier main.py avec un IDE de code avec python et la dernière version de pygame installé<br>
 - Ouvrez le dossier 'TaleUnder-1.0.0'<br>
-- Ouvrez le fichier main.py<br>
+- Ouvrez le fichier main.py avec un IDE de code avec python et la dernière version de pygame installé<br>
 - Cliquez sur le bouton play (en haut à droite de la fenetre pour VS Code)
 
 Et voici le fichier source complet, et bon jeu !
