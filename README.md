@@ -1,5 +1,5 @@
 # TaleUnder
-Projet académique de lycée en terminale NSI
+Projet académique de lycée en terminale NSI effectué avec d'autres camarades
 
 ## - Comment ouvrir les fichiers sources et jouer au jeu ?
 - Télécharger la dernière release<br>
